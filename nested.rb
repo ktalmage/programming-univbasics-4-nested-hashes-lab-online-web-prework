@@ -90,6 +90,7 @@ progammer_hash[:yukihiro_matsumoto] = {
 return programmer_hash
     
 end
+puts adding_matz
 
 def changing_alan
 	programmer_hash = 
