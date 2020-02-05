@@ -82,10 +82,10 @@ programmer_hash =
         }
      }
      
-progammer_hash[:yukihiro_matsumoto] = "Ruby"
-   
+programmer_hash[:yukihiro_matsumoto] = "Ruby"
+
 end
-puts adding_matz
+
 
 def changing_alan
 	programmer_hash = 
